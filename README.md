@@ -1,1 +1,1 @@
-"# Hardlist-bot" 
+# Hardlist-bot
